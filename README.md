@@ -1,4 +1,4 @@
-![](https://github.com/user-attachments/assets/d0f4f5d3-451d-4f22-a316-d0b08af4e608)
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt5YW4wcWszdTcwNmhpMHJvbTcyMHdpcnRkdHNndzFxbXNjMGRieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tP7kuM9UVsnXYIg/giphy.webp)
 
 
 <!---
