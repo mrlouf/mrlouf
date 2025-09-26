@@ -2,7 +2,7 @@
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt5YW4wcWszdTcwNmhpMHJvbTcyMHdpcnRkdHNndzFxbXNjMGRieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tP7kuM9UVsnXYIg/giphy.webp)
 
-**n00b@42Barcelona** 🖥️ | **Ex-word-wrangler** 📚➡️💻
+**Ex-word-wrangler** 📚➡️💻 | **n00b@42Barcelona** 🖥️
 
 ---
 
@@ -31,7 +31,7 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 - **Terraform** - Like giving a bulldozer to a kid: you can build amazing things... or accidentally demolish everything 🚜
 
 **Current Power-Ups:**
-- 🐳 **Docker** - Containerizing everything like a digital Marie Kondo
+- 🐳 **Docker** - Containerising everything like a digital Marie Kondo
 - ⚙️ **Ansible** - Teaching AWS instances to behave
 - ☸️ **Kubernetes** - Orchestrating containers like a digital conductor
 - 🔄 **CI/CD Pipelines** - Because manual deployment is so 2010
@@ -57,7 +57,7 @@ Always up for chatting about:
 
 ---
 
-*Fun fact: I can debug in three languages, but don't aske me to center a div* 🤷‍♂️
+*Fun fact: I can debug in three languages, but don't ask me to center a div* 🤷‍♂️
 
 <!---
 mrlouf/mrlouf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
