@@ -28,9 +28,9 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 **Languages I'm learning:**
 - **Golang** - A bit trendy, a bit practical (it's like C without all the memory management headaches) 🐹
 - **Rust** - This one feels like a cult to be honest... everyone who gets it tries to convert me, but I don't get the hype 🦀
-- **Terraform** - Like giving a bulldozer to a kid: you can build amazing things... or accidentally demolish everything 🚜
 
 **Current Power-Ups:**
+- 🏗️ **Terraform** - Build amazing things... or accidentally demolish everything
 - 🐳 **Docker** - Containerising everything like a digital Marie Kondo
 - ⚙️ **Ansible** - Teaching AWS instances to behave
 - ☸️ **Kubernetes** - Orchestrating containers like a digital conductor
