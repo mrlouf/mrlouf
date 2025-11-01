@@ -13,7 +13,7 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 **The Journey:**
 - 🗣️ **Former life:** Translator (EN/DE/JP → FR) - I was basically Google Translate's cooler older sibling
 - 🎯 **Main quest:** Conquering the 42 Barcelona Common Core (✅ July 2025)
-- 🚀 **Side quest:** Currently training in Backend, DevOps and UNIX wizardry
+- 🚀 **Side quest:** Currently training in DevOps, UNIX wizardry and Backend shenanigans
 
 ---
 
@@ -50,7 +50,7 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 ## 🤝 Let's Connect!
 
 Always up for chatting about:
-- What your favourite shell is and why (me? bash <3)
+- What your favourite shell is and why (mine? bash <3)
 - Why understanding what happens under the hood matters
 - Why documentation is important (but who has time for that?)
 - People that remember the command to extract a tar file without googling it up first
