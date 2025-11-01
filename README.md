@@ -34,26 +34,26 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 - 🐳 **Docker** - Containerising everything like a digital Marie Kondo
 - ⚙️ **Ansible** - Teaching AWS instances to behave
 - ☸️ **Kubernetes** - Orchestrating containers like a digital conductor
-- 🔄 **CI/CD Pipelines** - Because manual deployment is so 2010
+- 🌱 **CI/CD Pipelines (ArgoCD)** - Because manual deployment is so 2010
 
 ---
 
 ## What flips my bits
 
-- **Backend Development** - Where the real magic happens
 - **DevOps** - Automating all the things!
 - **Low-level Programming** - Getting down and dirty with bits and bytes
 - **Infrastructure as Code** - Because clicking buttons is for peasants
+- **Backend Development** - Where the real magic happens
 
 ---
 
 ## 🤝 Let's Connect!
 
 Always up for chatting about:
-- Code that actually works on the first try (mythical, I know)
-- The best ways to break production (accidentally, of course)
+- What your favourite shell is and why (me? bash <3)
 - Why understanding what happens under the hood matters
 - Why documentation is important (but who has time for that?)
+- People that remember the command to extract a tar file without googling it up first
 
 ---
 
