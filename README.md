@@ -1,6 +1,6 @@
 # こんにちは!<br>I'm a recovering translator turned code monkey 🐒
 
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt5YW4wcWszdTcwNmhpMHJvbTcyMHdpcnRkdHNndzFxbXNjMGRieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tP7kuM9UVsnXYIg/giphy.webp)
+![programador](https://github.com/user-attachments/assets/b04424fe-1cb6-4eb5-b95d-08377726b64c)
 
 **Ex-word-wrangler** 📚➡️💻 | **n00b@42Barcelona** 🖥️
 
@@ -23,8 +23,8 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 - **C/C++** - Respect your elders, they'll teach you humility one segfault at a time
 - **Assembly** - The lowest level of programming before murmuring 0s and 1s to your CPU
 - **JavaScript/TypeScript** - Because who doesn't love async chaos and unfulfilled promises?
-- **Python** - Currently a bit rusty but still dangerous
-
+- **Python** - Gotta love a language that lets you casually cast a string into an unsigned Seat Ibiza
+  
 **Languages I'm learning:**
 - **Golang** - A bit trendy, a bit practical (it's like C without all the memory management headaches) 🐹
 - **Rust** - This one feels like a cult to be honest... everyone who gets it tries to convert me, but I don't get the hype 🦀
