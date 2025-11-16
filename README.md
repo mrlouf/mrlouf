@@ -36,8 +36,10 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 - 🏗️ **Terraform** - Build amazing things... or accidentally demolish everything
 - 🐳 **Docker** - Containerising everything like a digital Marie Kondo
 - ⚙️ **Ansible** - Teaching AWS instances to behave
-- ☸️ **Kubernetes** - Orchestrating containers like a digital conductor
-- 🌱 **CI/CD Pipelines (ArgoCD)** - Because manual deployment is so 2010
+- ⚓ **Kubernetes** - Orchestrating containers like a digital conductor
+- ☸️ **Helm** - Charting a course through the stormy seas of K8s (captain's orders: template everything)
+- 🌱 **ArgoCD** - GitOps: where your cluster trusts Git more than you do
+- 📊 **Prometheus & Grafana** - Turning metrics into pretty dashboards that scream when things break
 
 ---
 
@@ -53,7 +55,7 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 ## 🤝 Let's Connect!
 
 Always up for chatting about:
-- What your favourite shell is and why (mine? bash <3)
+- What your favourite shell is and why (mine? Bash <3)
 - Why understanding what happens under the hood matters
 - Why documentation is important (but who has time for that?)
 - People that remember the command to extract a tar file without googling it up first
