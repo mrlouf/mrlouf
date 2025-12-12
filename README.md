@@ -19,8 +19,6 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 
 ## My Coding Arsenal
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlouf&layout=compact&theme=radical)
-
 
 **Languages I speak (to computers):**
 - **C/C++** - Respect your elders, they'll teach you humility one segfault at a time
@@ -61,8 +59,6 @@ Always up for chatting about:
 - People that remember the command to extract a tar file without googling it up first
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrlouf&show_icons=true&theme=radical)
 
 *Fun fact: I can debug in three languages, but don't ask me to center a div* 🤷‍♂️
 
