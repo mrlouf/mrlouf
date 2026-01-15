@@ -1,4 +1,4 @@
-# こんにちは!<br>My name is Nicolas
+# こんにちは!<br>My name is Nicolas. Enchanté !
 
 ![programador](https://github.com/user-attachments/assets/b04424fe-1cb6-4eb5-b95d-08377726b64c)
 
