@@ -9,9 +9,9 @@
 Once upon a time, I made English, German and Japanese words dance into French. Now, I make applications dance in the cloud!
 
 **The Journey:**
-- 🗣️ **Former life:** Translator (EN/DE/JP → FR) - I was basically Google Translate's cooler older sibling
-- 🎯 **Main quest:** Conquering the 42 Barcelona Common Core (✅ July 2025)
-- 🚀 **Side quest:** Currently specialising in DevOps
+- **Former life:** Translator (EN/DE/JP → FR) - I was basically Google Translate's cooler older sibling
+- **Main quest:** Conquering the 42 Barcelona Common Core (✅ July 2025)
+- **Side quest:** Currently specialising in DevOps
 
 ---
 
@@ -29,13 +29,13 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 - **Rust** - This one feels like a cult to be honest... everyone who gets it tries to convert me, but I don't get the hype
 
 **Additional Power-Ups:**
-- 🏗️ **Terraform** - Build amazing things... or accidentally demolish everything
-- 🐳 **Docker** - Containerising everything like a digital Marie Kondo
-- ⚙️ **Ansible** - Teaching AWS instances to behave
-- ⚓ **Kubernetes** - Orchestrating containers like a digital conductor
-- ☸️ **Helm** - Charting a course through the stormy seas of K8s (captain's orders: template everything)
-- 🌱 **ArgoCD** - GitOps: where your cluster trusts Git more than you do
-- 📊 **Prometheus & Grafana** - Turning metrics into pretty dashboards that scream when things break
+- **Terraform** - Build amazing things... or accidentally demolish everything
+- **Docker** - Containerising everything like a digital Marie Kondo
+- **Ansible** - Teaching AWS instances to behave
+- **Kubernetes** - Orchestrating containers like a digital conductor
+- **Helm** - Charting a course through the stormy seas of K8s (captain's orders: template everything)
+- **ArgoCD** - GitOps: where your cluster trusts Git more than you do
+- **Prometheus & Grafana** - Turning metrics into pretty dashboards that scream when things break
 
 ---
 
