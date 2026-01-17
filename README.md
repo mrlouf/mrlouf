@@ -27,6 +27,8 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 - **JavaScript/TypeScript** - Because who doesn't love async chaos and unfulfilled promises?
 - **Assembly** - The lowest level of programming before murmuring 0s and 1s to your CPU
 
+**Languages I speak (to humans):**	🇨🇵🇬🇧🇩🇪🇪🇸🇯🇵
+
 ---
 
 **Additional Power-Ups:**
