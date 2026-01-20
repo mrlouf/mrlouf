@@ -14,7 +14,7 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 - 
  - [x] **Former life:** Translator (EN/DE/JP → FR) - I was basically Google Translate's cooler older sibling
  - [x] **Main quest:** Conquering the 42 Barcelona Common Core (✅ July 2025)
- - [ ] **Side quest:** Currently specialising in DevOps and aiming for the [RNCP 7 - IT Architecture
+ - [ ] **Side quest:** Currently specialising in DevOps and aiming for the certificate [RNCP 7 - IT Architecture
        Expert](https://www.credly.com/org/42/badge/rncp-niveau-7-expert-en-architecture-informatique-a.2)
 
 ## My Coding Arsenal
