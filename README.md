@@ -30,10 +30,10 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 
 **Languages I speak (to computers):**
 - **C/C++** - Respect your elders, they'll teach you humility one segfault at a time
-- **Python** - Gotta love a language that lets you casually cast a string into an unsigned Seat Ibiza
 - **Golang** - A bit trendy, a bit practical (it's like C without all the memory management headaches)
-- **JavaScript/TypeScript** - Because who doesn't love async chaos and unfulfilled promises?
+- **Python** - Gotta love a language that lets you casually cast a string into an unsigned Seat Ibiza
 - **Assembly** - The lowest level of programming before murmuring 0s and 1s to your CPU
+- **JavaScript/TypeScript** - Because who doesn't love async chaos and unfulfilled promises?
 
 **Languages I speak (to humans):**	🇨🇵🇬🇧🇩🇪🇪🇸🇯🇵
 
