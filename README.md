@@ -57,8 +57,7 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 
 
 ## Current projects
-- [**Dawn Treader**](https://github.com/mrlouf/dawn-treader) - Deploying a web app onto the cloud using Kubernetes, Terraform and Ansible.
-- [**Musical Sync**](https://github.com/mrlouf/musical-sync) - An application that synchronises your playlists across streaming platforms, written in Go.
+- [**TalentGraph**](https://github.com/mcatalan15/TalentGraph) - A professional identity portal where 42 students showcase verified achievements supervised by career experts. 
 
 ## 🤝 Let's Connect!
 
