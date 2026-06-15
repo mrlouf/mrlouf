@@ -20,7 +20,6 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 ## My Coding Arsenal
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,7 +28,7 @@ Once upon a time, I made English, German and Japanese words dance into French. N
 
 
 **Languages I speak (to computers):**
-- **C/C++** - Respect your elders, they'll teach you humility one segfault at a time
+- **C** - Respect your elders, they'll teach you humility one segfault at a time
 - **Golang** - A bit trendy, a bit practical (it's like C without all the memory management headaches)
 - **Python** - Gotta love a language that lets you casually cast a string into an unsigned Seat Ibiza
 - **Assembly** - The lowest level of programming before murmuring 0s and 1s to your CPU
